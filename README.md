@@ -4,8 +4,6 @@
 
 <b>Python automation · Web scraping · Data pipelines · Applied machine learning</b>
 
-<br><br>
-
 <a href="mailto:taimourwk2132@gmail.com"><img src="https://img.shields.io/badge/Email-taimourwk2132%40gmail.com-0f766e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email taimourwk2132@gmail.com"></a>
 <a href="https://www.linkedin.com/in/taimour-khan-869476382"><img src="https://img.shields.io/badge/LinkedIn-Taimour%20Khan-0a66c2?style=for-the-badge" alt="LinkedIn: Taimour Khan"></a>
 <img src="https://img.shields.io/badge/Lahore%2C%20Pakistan-UTC%2B5-475569?style=for-the-badge" alt="Lahore, Pakistan, UTC+5">
@@ -18,6 +16,7 @@ I am a Data Science student at the University of Management and Technology (UMT)
 
 I build things that run without me watching them, I test them, and I report a number only when I can show where it came from.
 
+<div align="center">
 <table>
 <tr>
 <td align="center" width="25%"><b>4</b><br><sub>projects shipped, 2 of them live</sub></td>
@@ -26,6 +25,7 @@ I build things that run without me watching them, I test them, and I report a nu
 <td align="center" width="25%"><b>380,000</b><br><sub>police records in my forecasting model</sub></td>
 </tr>
 </table>
+</div>
 
 ## Featured work
 
@@ -53,8 +53,6 @@ I build things that run without me watching them, I test them, and I report a nu
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
 <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest">
 
-<br><br>
-
 <a href="https://github.com/TaimourKhan2132/Lead-Forge"><b>View the code</b></a> &nbsp;·&nbsp; <a href="https://taimourkhan2132.github.io/Lead-Forge/"><b>Open the live page</b></a>
 
 </td>
@@ -79,8 +77,6 @@ I build things that run without me watching them, I test them, and I report a nu
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
 <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Vertex AI">
 
-<br><br>
-
 <a href="https://github.com/TaimourKhan2132/ecg-synthetic-research"><b>View the code and results</b></a>
 
 </td>
@@ -103,8 +99,6 @@ I build things that run without me watching them, I test them, and I report a nu
 <img src="https://img.shields.io/badge/PHP%208.2-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP 8.2">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
 <img src="https://img.shields.io/badge/No%20framework-334155?style=flat-square" alt="No framework">
-
-<br><br>
 
 <a href="https://github.com/TaimourKhan2132/dailypost"><b>View the code</b></a> &nbsp;·&nbsp; <a href="https://dailypostpk.page.gd"><b>Open the live site</b></a>
 
@@ -129,8 +123,6 @@ I build things that run without me watching them, I test them, and I report a nu
 <img src="https://img.shields.io/badge/LightGBM-2e7d32?style=flat-square" alt="LightGBM">
 <img src="https://img.shields.io/badge/H3-6a1b9a?style=flat-square" alt="H3">
 <img src="https://img.shields.io/badge/Optuna-334155?style=flat-square" alt="Optuna">
-
-<br><br>
 
 <a href="https://github.com/TaimourKhan2132/DenverCrime"><b>View the code and results</b></a>
 
