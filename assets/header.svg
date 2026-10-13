@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Taimour Khan. Python automation, web scraping, data pipelines and applied machine learning.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#111a33"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f59e0b" stop-opacity="0"/>
+      <stop offset="0.15" stop-color="#f59e0b"/>
+      <stop offset="0.85" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text { font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+    .label { font-size: 17px; font-weight: 600; letter-spacing: 4px; fill: #f59e0b; }
+    .name { font-size: 76px; font-weight: 700; fill: #ffffff; }
+    .lead { font-size: 26px; fill: #94a3b8; }
+    .phrase { font-size: 26px; font-weight: 600; fill: #e2e8f0; opacity: 0; animation: show 14s infinite; }
+    .p2 { animation-delay: 3.5s; }
+    .p3 { animation-delay: 7s; }
+    .p4 { animation-delay: 10.5s; }
+    .pulse { fill: none; stroke: url(#line); stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round;
+             stroke-dasharray: 1400; stroke-dashoffset: 1400; animation: draw 7s ease-in-out infinite; }
+    .intro { animation: rise 0.9s ease-out both; }
+    @keyframes show {
+      0% { opacity: 0; transform: translateY(8px); }
+      4%, 21% { opacity: 1; transform: translateY(0); }
+      25%, 100% { opacity: 0; transform: translateY(-8px); }
+    }
+    @keyframes draw {
+      0% { stroke-dashoffset: 1400; }
+      55%, 80% { stroke-dashoffset: 0; }
+      100% { stroke-dashoffset: -1400; }
+    }
+    @keyframes rise {
+      from { opacity: 0; transform: translateY(12px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .phrase, .pulse, .intro { animation: none; }
+      .p1 { opacity: 1; }
+      .pulse { stroke-dashoffset: 0; }
+    }
+  </style>
+
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="18" fill="none" stroke="#1e293b"/>
+
+  <g class="intro">
+    <text class="label" x="72" y="84">DATA SCIENCE STUDENT · LAHORE</text>
+    <text class="name" x="68" y="164">Taimour Khan</text>
+  </g>
+
+  <text class="lead" x="72" y="216">I build</text>
+  <text class="phrase p1" x="164" y="216">Python automations that run unattended.</text>
+  <text class="phrase p2" x="164" y="216">web scrapers that prove what they claim.</text>
+  <text class="phrase p3" x="164" y="216">data pipelines with tests around them.</text>
+  <text class="phrase p4" x="164" y="216">machine learning models, evaluated honestly.</text>
+
+  <path class="pulse" d="M72 258 H420 l14 -6 l12 6 h40 l10 6 l12 -40 l14 58 l12 -24 h44 l18 -10 l18 10 H820 l14 -6 l12 6 h40 l10 6 l12 -40 l14 58 l12 -24 h44 l18 -10 l18 10 H1128"/>
+</svg>

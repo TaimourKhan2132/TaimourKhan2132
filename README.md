@@ -1,8 +1,6 @@
 <div align="center">
 
-<h1>Taimour Khan</h1>
-
-<b>Python automation · Web scraping · Data pipelines · Applied machine learning</b>
+<img src="assets/header.svg" width="100%" alt="Taimour Khan. Data Science student in Lahore. I build Python automations, web scrapers, data pipelines and machine learning models.">
 
 <a href="mailto:taimourwk2132@gmail.com"><img src="https://img.shields.io/badge/Email-taimourwk2132%40gmail.com-0f766e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email taimourwk2132@gmail.com"></a>
 <a href="https://www.linkedin.com/in/taimour-khan-869476382"><img src="https://img.shields.io/badge/LinkedIn-Taimour%20Khan-0a66c2?style=for-the-badge" alt="LinkedIn: Taimour Khan"></a>
