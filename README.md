@@ -1,10 +1,8 @@
 # Taimour Khan
 
-Data Science student at UMT, Lahore. I build Python automations, web scrapers and data pipelines, and do applied machine learning.
+Data Science student at the University of Management and Technology (UMT), Lahore, in the School of Systems and Technology. I build Python automations, web scrapers and data pipelines, and do applied machine learning.
 
 I test what I build, and I report a number only when I can show where it came from.
-
-**Open to part-time remote work.** Email [taimourwk2132@gmail.com](mailto:taimourwk2132@gmail.com) or message me on [LinkedIn](https://www.linkedin.com/in/taimour-khan-869476382).
 
 ## What I've shipped
 
@@ -25,7 +23,7 @@ Python, Playwright, httpx, BeautifulSoup, pandas, SQLite, pytest, GitHub Actions
 
 [Code and results](https://github.com/TaimourKhan2132/ecg-synthetic-research)
 
-Does adding synthetic ECG images to real training data improve arrhythmia classification on real patients? Accepted at the International Medical AI Conference, Dubai (2026).
+Does adding synthetic ECG images to real training data improve arrhythmia classification on real patients? Accepted at NEECON 2026.
 
 - Adding Gemini-generated and NeuroKit2-simulated images raised macro-F1 from 0.869 to 0.892 on PTB-XL (p < 0.001 across 9 paired estimates).
 - No leakage: patients are grouped across folds, and validation and test sets contain real ECGs only. Tests in the repo enforce both rules.
