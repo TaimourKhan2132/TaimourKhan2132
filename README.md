@@ -10,9 +10,11 @@
 
 <br>
 
-I am a Data Science student at the University of Management and Technology (UMT), Lahore, in the School of Systems and Technology.
+<div align="center">
 
-I build things that run without me watching them, I test them, and I report a number only when I can show where it came from.
+Built to run unattended. Tested. Every number traceable to its source.
+
+</div>
 
 <div align="center">
 <table>
@@ -31,7 +33,7 @@ I build things that run without me watching them, I test them, and I report a nu
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/TaimourKhan2132/Lead-Forge"><img src="assets/leadforge.png" alt="LeadForge: lead research that only says what it can prove"></a>
+<a href="https://github.com/TaimourKhan2132/Lead-Forge"><img src="assets/leadforge-demo.gif" alt="A terminal session: LeadForge builds an example pack, its linter rejects an email with retired claims, and the tests pass"></a>
 
 <h3>LeadForge</h3>
 
